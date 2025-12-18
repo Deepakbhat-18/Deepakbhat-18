@@ -29,44 +29,10 @@ My goal is to develop clean, maintainable applications while continuously improv
 </div>
 
 ---
-
-## 🧰 Tech Stack
-
-### ☕ Backend Development
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?logo=spring-boot&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/REST_APIs-FF6C37?logo=rest&logoColor=white&style=for-the-badge"/>
+<p align="center">
+  <img height="100" src="https://skillicons.dev/icons?i=java,spring,react,js,python,mysql,postgres,git,linux"/>
 </p>
 
-### 🎨 Frontend & Mobile
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=black&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge"/>
-</p>
-
-### 💻 Programming Languages
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge"/>
-</p>
-
-### 🗄 Databases
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white&style=for-the-badge"/>
-</p>
-
-### 🛠 Tools & Environment
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black&style=for-the-badge"/>
-</p>
 
 ---
 
