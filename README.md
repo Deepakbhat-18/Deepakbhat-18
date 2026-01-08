@@ -8,13 +8,12 @@
   <i>Building strong foundations across backend, frontend, and databases</i>
 </p>
 
----
+
 
 ## 👨‍💻 About Me
 
 I’m a **Computer Science student** aiming to grow into a **Full-Stack Developer** who can design, build, and understand complete software systems from end to end.
 
----
 
 ## 📊 GitHub Activity
 
@@ -36,15 +35,10 @@ I’m a **Computer Science student** aiming to grow into a **Full-Stack Develope
   />
 </p>
 
-
-
----
 <p align="center">
   <img height="100" src="https://skillicons.dev/icons?i=java,spring,react,js,python,mysql,postgres,git,linux"/>
 </p>
 
-
----
 
 ## 🌐 Connect With Me
 <p align="center">
@@ -59,7 +53,7 @@ I’m a **Computer Science student** aiming to grow into a **Full-Stack Develope
   </a>
 </p>
 
----
+
 
 <p align="center">🚀 Growing into a Full-Stack Developer, one commit at a time.</p>
 <p align="center">Thank you for visiting my profile.</p>
