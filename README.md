@@ -21,15 +21,11 @@ I'm a **Computer Science student** on a focused path toward becoming a **Full-St
 
 - 🔭 **Currently building:** Full-stack projects with **Spring Boot** backend + **React** frontend
 - 🌱 **Learning:** System Design, Spring Security, REST API best practices, SQL optimization
-- 💡 **Interests:** Backend architecture, clean code, developer tooling, and database design
-- 📫 **Reach me:** [deepakravindrabhat@gmail.com](mailto:deepakravindrabhat@gmail.com)
-
 
 ---
 
 ## 🛠️ Tech Stack
 
-<h4>Backend</h4>
 <p>
   <img src="https://skillicons.dev/icons?i=java,spring" /> <img src="https://skillicons.dev/icons?i=react,js,html,css" />  <img src="https://skillicons.dev/icons?i=mysql,postgres" /> <img src="https://skillicons.dev/icons?i=git,linux,vscode,github,postman,maven" /> <img src="https://skillicons.dev/icons?i=python,bash" />
 </p>
