@@ -56,9 +56,9 @@ I'm a **Computer Science student** on a focused path toward becoming a **Full-St
 
 | # | Project Name | Description | Tech Stack | Repository |
 |---|---|---|---|---|
-| 1 | **FedMedAi** | Brief description of what the project does and its purpose | Java, Spring Boot, React, PostgreSQL | [View Repo](#) |
-| 2 | **OralCare** | Brief description of what the project does and its purpose | Java, Spring Boot, React, PostgreSQL | [View Repo](#) |
-| 3 | **BookMySlot** | Brief description of what the project does and its purpose | React, SpringBoot,MySQl| [View Repo](#) |
+| 1 | **FedMedAi** | | Java, Spring Boot, React, PostgreSQL | [View Repo](#) |
+| 2 | **OralCare** |  | Java, Spring Boot, React, PostgreSQL | [View Repo](#) |
+| 3 | **BookMySlot** |  | React, SpringBoot,MySQl| [View Repo](#) |
 
 ---
 
