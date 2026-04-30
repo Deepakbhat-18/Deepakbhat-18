@@ -21,43 +21,66 @@ I'm a **Computer Science student** on a focused path toward becoming a **Full-St
 
 - 🔭 **Currently building:** Full-stack projects with **Spring Boot** backend + **React** frontend
 - 🌱 **Learning:** System Design, Spring Security, REST API best practices, SQL optimization
+- 📍 **Location:** Bangalore, India (IST timezone)
+- 💼 **Open to:** Full-stack projects, freelance opportunities, open-source contributions
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring" /> <img src="https://skillicons.dev/icons?i=react,js,html,css" />  <img src="https://skillicons.dev/icons?i=mysql,postgres" /> <img src="https://skillicons.dev/icons?i=git,linux,vscode,github,postman,maven" /> <img src="https://skillicons.dev/icons?i=python,bash" />
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,bash" />
+
+  <img src="https://skillicons.dev/icons?i=spring" />
+
+  <img src="https://skillicons.dev/icons?i=react,html,css" />
+
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,git,linux,vscode,github,postman,maven" />
 </p>
 
+---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img
-    width="400"
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=deepakbhat18&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"
-  />
-  <img
-    width="380"
-    src="https://streak-stats.vercel.app?user=deepakbhat18&theme=tokyonight&hide_border=true"
-  />
-</p>
+<div align="center">
 
-<p align="center">
-  <img
-    width="400"
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=deepakbhat18&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-  />
-</p>
+| GitHub Stats | Contribution Streak | Language Distribution | Activity Graph |
+|:---:|:---:|:---:|:---:|
+| ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=deepakbhat18&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&card_width=280) | ![Streak Stats](https://streak-stats.vercel.app?user=deepakbhat18&theme=tokyonight&hide_border=true&card_width=280) | ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=deepakbhat18&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=280) | ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=deepakbhat18&theme=tokyo-night&hide_border=true&area=true&card_width=280) |
 
-<p align="center">
-  <img
-    width="790"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=deepakbhat18&theme=tokyo-night&hide_border=true&area=true"
-  />
-</p>
+</div>
 
+---
+
+## 📂 Featured Projects
+
+| # | Project Name | Description | Tech Stack | Repository |
+|---|---|---|---|---|
+| 1 | **FedMedAi** | Brief description of what the project does and its purpose | Java, Spring Boot, React, PostgreSQL | [View Repo](#) |
+| 2 | **OralCare** | Brief description of what the project does and its purpose | Java, Spring Boot, React, PostgreSQL | [View Repo](#) |
+| 3 | **BookMySlot** | Brief description of what the project does and its purpose | React, SpringBoot,MySQl| [View Repo](#) |
+
+---
+
+## 📈 Currently Learning
+ 
+### **Backend Development**
+- 🔍 Building RESTful APIs with Spring Boot
+- 🔍 Database design & optimization (MySQL, PostgreSQL)
+- 🔍 Authentication & Security (JWT, Spring Security)
+- 🔍 ORM frameworks (Hibernate, JPA)
+### **Frontend Development**
+- 🔍 React components & hooks
+- 🔍 Responsive UI design (HTML5, CSS3)
+- 🔍 State management
+- 🔍 API integration & data fetching
+### **System Design & Architecture**
+- 🔍 **System Design Patterns** — Microservices, Caching, Load Balancing
+- 🔐 **Spring Security & OAuth 2.0** — Advanced authentication mechanisms
+- 💾 **SQL Optimization** — Query performance, indexing strategies
+- ☁️ **Cloud Deployment** — Docker, AWS basics
+
+---
 
 ## 🌐 Connect With Me
 
@@ -73,14 +96,21 @@ I'm a **Computer Science student** on a focused path toward becoming a **Full-St
   <a href="https://twitter.com/Deepak_Bhat_">
     <img height="36" src="https://img.shields.io/badge/Twitter%20%2F%20X-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
+  &nbsp;
+  <a href="https://github.com/deepakbhat18">
+    <img height="36" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
 
+---
 
 <p align="center">
   <b>🚀 Growing into a Full-Stack Developer, one commit at a time.</b>
   <br/>
   <sub>Thanks for visiting — feel free to explore the repos and drop a ⭐ if something helps you!</sub>
+  <br/>
+  <sub>Last Updated: April 2026</sub>
 </p>
