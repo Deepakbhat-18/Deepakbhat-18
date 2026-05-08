@@ -56,9 +56,9 @@ I'm a **Computer Science student** on a focused path toward becoming a **Full-St
 
 | # | Project Name | Description | Tech Stack | Repository |
 |---|---|---|---|---|
-| 1 | **FedMedAi** | | Java, Spring Boot, React, PostgreSQL | [View Repo](#) |
-| 2 | **OralCare** |  | Java, Spring Boot, React, PostgreSQL | [View Repo](#) |
-| 3 | **BookMySlot** |  | React, SpringBoot,MySQl| [View Repo](#) |
+| 1 | **FedMedAi** | | Java, Spring Boot, React, PostgreSQL | [View Repo](#https://github.com/deepakbhat18/FedMedAI-backend.git) |
+| 2 | **OralCare** |  | Java, Spring Boot, React, PostgreSQL | [View Repo](#https://github.com/deepakbhat18/oralcare.git) |
+| 3 | **BookMySlot** |  | React, SpringBoot,MySQl| [View Repo](#https://github.com/deepakbhat18/bookmyslot.git) |
 
 ---
 
