@@ -62,25 +62,7 @@ I'm a **Computer Science student** on a focused path toward becoming a **Full-St
 
 ---
 
-## 📈 Currently Learning
- 
-### **Backend Development**
-- 🔍 Building RESTful APIs with Spring Boot
-- 🔍 Database design & optimization (MySQL, PostgreSQL)
-- 🔍 Authentication & Security (JWT, Spring Security)
-- 🔍 ORM frameworks (Hibernate, JPA)
-### **Frontend Development**
-- 🔍 React components & hooks
-- 🔍 Responsive UI design (HTML5, CSS3)
-- 🔍 State management
-- 🔍 API integration & data fetching
-### **System Design & Architecture**
-- 🔍 **System Design Patterns** — Microservices, Caching, Load Balancing
-- 🔐 **Spring Security & OAuth 2.0** — Advanced authentication mechanisms
-- 💾 **SQL Optimization** — Query performance, indexing strategies
-- ☁️ **Cloud Deployment** — Docker, AWS basics
 
----
 
 ## 🌐 Connect With Me
 
